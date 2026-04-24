@@ -32,3 +32,4 @@ public class SpiralPatternExample2 {
     }
 }
 
+fourth line 
