@@ -35,4 +35,5 @@ public class SpiralPatternExample2 {
 fourth line 
 Fifth line
 sixth line
-seventh line
+0seventh line
+eight line
